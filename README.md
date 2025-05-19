@@ -3,7 +3,7 @@
 Software engineer at Daedalus, Inc. focused on machine learning and computer vision for edge and on-device.
 
 ## 🤝 OpenCV Contributions
-[![OpenCV Contributor](https://img.shields.io/badge/OpenCV-Contributor-brightgreen)](https://github.com/opencv/opencv/commits?author=yourusername)
+[![OpenCV Contributor](https://img.shields.io/badge/OpenCV-Contributor-brightgreen)](https://github.com/opencv/opencv/commits?author=chengolivia)
 - https://github.com/opencv/opencv/pull/27305
 
 ## 🤝 FiftyOne Contributions
