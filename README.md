@@ -1,6 +1,6 @@
 # Hi, I'm Olivia Cheng 👋
 
-I'm a software engineer at Daedalus, Inc. focused on machine learning and computer vision for edge and on-device.
+I'm a software engineer at Daedalus, Inc. focused on machine learning and computer vision for edge and on-device. Plus embedded software, mobile and desktop app development, and more!
 
 ## 🤝 OpenCV Contributions
 OpenCV is the world's biggest computer vision library.
