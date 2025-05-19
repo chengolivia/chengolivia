@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Olivia Cheng 👋
 
-<!--
-**chengolivia/chengolivia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer at Daedalus, Inc. focused on machine learning and computer vision for edge and on-device.
 
-Here are some ideas to get you started:
+## 🔭 Current Projects
+- [Brief description of what you're currently working on]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 OpenCV Contributions
+[![OpenCV Contributor](https://img.shields.io/badge/OpenCV-Contributor-brightgreen)](https://github.com/opencv/opencv/commits?author=yourusername)
+- https://github.com/opencv/opencv/pull/27305
+
+## 🤝 FiftyOne Contributions
+[![FiftyOne Contributor](tbd)
+- https://github.com/voxel51/fiftyone/pull/5910
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](linkedin.com/in/ocheng1)
