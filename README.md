@@ -16,5 +16,5 @@ FiftyOne is the refinery for building visual AI that harmonizes data and model w
 - https://github.com/voxel51/fiftyone/pull/5910
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](linkedin.com/in/ocheng1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ocheng1)
 [![Website](https://img.shields.io/badge/Personal-Website-pink?style=flat&logo=globe)](https://chengolivia.github.io)
