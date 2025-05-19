@@ -7,7 +7,7 @@ OpenCV is the world's biggest computer vision library.
 
 [![OpenCV Contributor](https://img.shields.io/badge/OpenCV-Contributor-brightgreen)](https://github.com/opencv/opencv/commits?author=chengolivia)
 
-- https://github.com/opencv/opencv/pull/27305
+- https://github.com/opencv/opencv/pull/27305 (Math context here: https://github.com/opencv/opencv/issues/25828#issuecomment-2864036319)
 
 ## 🤝 FiftyOne Contributions
 FiftyOne is the refinery for building visual AI that harmonizes data and model work to create quality datasets and accurate models.
