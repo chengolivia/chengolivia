@@ -7,7 +7,7 @@ Software engineer at Daedalus, Inc. focused on machine learning and computer vis
 - https://github.com/opencv/opencv/pull/27305
 
 ## 🤝 FiftyOne Contributions
-[![FiftyOne Contributor](tbd)
+[![FiftyOne Contributor](https://github.com/voxel51/fiftyone/commits?author=chengolivia)
 - https://github.com/voxel51/fiftyone/pull/5910
 
 ## 📫 Connect
