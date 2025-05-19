@@ -2,9 +2,6 @@
 
 Software engineer at Daedalus, Inc. focused on machine learning and computer vision for edge and on-device.
 
-## 🔭 Current Projects
-- [Brief description of what you're currently working on]
-
 ## 🤝 OpenCV Contributions
 [![OpenCV Contributor](https://img.shields.io/badge/OpenCV-Contributor-brightgreen)](https://github.com/opencv/opencv/commits?author=yourusername)
 - https://github.com/opencv/opencv/pull/27305
