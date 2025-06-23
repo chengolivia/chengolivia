@@ -20,7 +20,7 @@ FiftyOne is the refinery for building visual AI that harmonizes data and model w
 ## 🤝 PyTorch Vision Contributions
 The torchvision package consists of popular datasets, model architectures, and common image transformations for computer vision.
 
-![PyTorch Contributor](https://github.com/pytorch/vision/commits?author=chengolivia)
+[![PyTorch Contributor](https://img.shields.io/badge/PyTorch-Contributor-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://github.com/pytorch/vision/commits?author=chengolivia)
 - https://github.com/pytorch/vision/pull/9114
 
 ## 📫 Connect
